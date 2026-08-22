@@ -1,4 +1,4 @@
-1. rename firefoxcustom to chrome to customize firefox
+1. rename firefoxcustom to chrome to customize firefox place the chrome folder in the deafult release folder (the one that starts with a j not an i)
 
 2. for catloop.sh for more info go to this url https://github.com/Zeibytes/most-racist-rice/blob/main/waybar/scripts/README.md (this is a custom zei rice)
 
